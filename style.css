@@ -48,78 +48,6 @@ li {
     margin-bottom: 5px;
 }
 
-.img-inline {
-  margin: 0 0.6em;
-  max-width:50%;
-}
-
-.centered-img {
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 90%;
-  display: block;
-  margin-top: 0.75em;
-  margin-bottom: 0.75em;
-}
-
-.menu-list {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #ededed;
-}
-
-.menu-item {
-  float: left;
-  padding: 8px;
-}
-
-.menu-link {
-  display: inline-block;
-  padding-right: 3px;
-  padding-left: 3px;
-  text-decoration: none;
-  color: black;
-  font-size: 14;
-}
-
-.citation {
-  margin: 10px 0;
-  /*line-height: 125%;*/
-}
-
-.blogroll-container {
-  margin: 2em 0;
-}
-
-.blogroll-title {
-  text-decoration: none;
-  color: black;
-}
-
-.next-link {
-  float: right
-}
-
-.previous-link {
-  float: left
-}
-
-.code {
-  font-family: Menlo,Monaco,Consolas,"Courier New",monospace;
-  background-color: #ededed;
-  font-size: 85%;
-}
-
-.code-block {
-  font-family: Menlo,Monaco,Consolas,"Courier New",monospace;
-  background-color: #ededed;
-  padding: 0.6em;
-  font-size: 85%;
-  overflow: scroll;
-}
-
 figcaption {
   font-size: 9pt;
   font-style: italic;
@@ -136,59 +64,13 @@ th,td {
     padding: 0 10px;
 }
 
-.left-aligned-table td {
-    text-align: left;
-}
-
 sup,sub {
   line-height: 0;
   font-size: 75%;
-}
-
-.footnotes {
-    font-size: 11pt;
-}
-
-.poetry {
-  font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
-  font-style: italic;
-  padding: 0 2em;
 }
 
 blockquote {
   border-left: 4px solid #ccc;
   margin: 1em 0;
   padding: 0 1.5em;
-}
-
-div.dinkus {
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
-}
-
-div#project-container {
-  display: inline-block;
-  margin: 0.1em;
-  float: center;
-  width: 45%;
-  color: #222222;
-}
-
-.epigraph{
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
-}
-
-.epigraph-byline {
-  margin-left: auto;
-  margin-right: auto;
-  text-align: right;
-}
-
-iframe {
-  margin: 1em auto;
-  border: 0;
-  display: block;
 }
