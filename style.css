@@ -2,11 +2,13 @@ body {
   font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
   -webkit-font-smoothing: antialiased;
   letter-spacing: .05px;
-  max-width: 45em;
   margin: 1em auto;
   padding: 0 .6em;
   color: #222222;
   line-height: 1.4;
+  max-width: 38em;
+  margin-top: 70px;
+  margin-bottom: 70px;
 }
 
 h1 {
@@ -30,7 +32,7 @@ h3 {
 p {
   margin-block-start: 0.6em;
   margin-block-end: 0.6em;
-  text-indent: 1em;
+  text-indent: 0em;
 }
 
 b {
